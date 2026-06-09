@@ -1,5 +1,10 @@
 # Rgb Keyboard
 
+
+
+![keyboard](https://i.ibb.co/rRcw9smC/Keyboard.gif)
+
+
 - OBS: Para ligar o rgb você precisa estar com o gerenciador de janela x11
 
   #### Para verificar o gerenciador de janelas que você está usando rode esse comando
